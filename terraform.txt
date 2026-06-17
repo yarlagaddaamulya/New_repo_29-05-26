@@ -55,8 +55,8 @@ Secret Key
 
 provider "aws" {
   region = "us-east-1"
-  access key = "YOUR_ACCESS_KEY"
-  secret key = "YOUR_SECRET_KEY"
+  access key = "AKIAY2NBQTWQZ5WALEFR"
+  secret key = "XgwxVYeJ040TuSG6FfjFbh3t1x3yar+P+Nev1PsV"
 }
 
 
@@ -105,3 +105,9 @@ https://developer.hashicorp.com/terraform/install#linux
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
+
+
+
+AKIAY2NBQTWQZ5WALEFR
+
+XgwxVYeJ040TuSG6FfjFbh3t1x3yar+P+Nev1PsV
